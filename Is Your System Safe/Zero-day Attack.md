@@ -13,3 +13,4 @@ But what exactly does zero-day mean Before we dig into the meaning of zero- day,
 - exploit：恶意攻击程序、利用
 
 > Exploit 的英文意思就是利用，它在黑客眼里就是漏洞利用。有漏洞不一定就有Exploit（利用)，有Exploit就肯定有漏洞。
+
