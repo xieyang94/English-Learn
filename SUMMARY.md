@@ -7,4 +7,6 @@
     * [Google' Elite Security Team](Is Your System Safe/Google' Elite Security Team.md)
     * [Viruses and Malware: What is the difference?](Is Your System Safe/Viruses and Malware.md)
     * [Cool Uses For Drones](Is Your System Safe/Cool Uses For Drones.md)
+    * [Add a New E-mail Account in Microsoft Outlook](Is Your System Safe/Add a New E-mail Account in Microsoft Outlook.md)
+    * [Change Windows Visual Effects](Is Your System Safe/Change Windows Visual Effects.md)
 
