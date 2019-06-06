@@ -22,16 +22,16 @@ Tony：You're welcome! Don't hesitate to ask me if you have any questions.
 
 Leo：I won't.Thank you.
 
-------
 
-quite often： 很频繁，经常
 
-could you tell me how to……：你能告诉我……怎么做么
+- quite often： 很频繁，经常
 
-I have no clue at all：毫无思绪
+- could you tell me how to……：你能告诉我……怎么做么
 
-appropriate boxes：对应输入框
+- I have no clue at all：毫无思绪
 
-type ：类型，填入
+- appropriate boxes：对应输入框
 
-hesitate ：迟疑，踌躇，徘徊
+- type ：类型，填入
+
+- hesitate ：迟疑，踌躇，徘徊
