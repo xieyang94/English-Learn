@@ -9,22 +9,22 @@ The company gave him a 150 000 reward.
 
 Two months later , Google's security engineer Chris Evans offered him a position in a team of elite hackers. George Hotz accepted the offer and now works for Google's security team Project Zero.
 
-* Launched ：推出
-* exclusive ：独家
-* partnership ：合伙
-* AT&T：美国电话电报公司
-* cracked：破解
-* lock：锁
-* scrambled ：快速的，争抢到
-* allowed ：允许，合法的
-* reverse ：相反
-* engineered  ：工程
-* PlayStation 3：PS3
-* posted ：发布
-* website ：网站
-* sued ：起诉
-* settled ：和解，解决
-* competition ：竞争，竞赛
-* reward：奖励
-* engineer ：工程师
-* offered ... a position in...：提供...在...中的位置
+- Launched ：推出
+- exclusive ：独家
+- partnership ：合伙
+- AT&T：美国电话电报公司
+- cracked：破解
+- lock：锁
+- scrambled ：快速的，争抢到
+- allowed ：允许，合法的
+- reverse ：相反
+- engineered  ：工程
+- PlayStation 3：PS3
+- posted ：发布
+- website ：网站
+- sued ：起诉
+- settled ：和解，解决
+- competition ：竞争，竞赛
+- reward：奖励
+- engineer ：工程师
+- offered ... a position in...：提供...在...中的位置

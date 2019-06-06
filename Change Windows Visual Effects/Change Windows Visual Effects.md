@@ -22,7 +22,7 @@ Tony：Oh, right.Just select the check box of use drop shadows for icon labels o
 
 Leo：Problem solved.Thank you very much, Tony
 
----
+------
 
 Visual Effects：视觉效果
 
