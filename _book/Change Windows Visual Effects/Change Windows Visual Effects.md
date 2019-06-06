@@ -22,32 +22,32 @@ Tony：Oh, right.Just select the check box of use drop shadows for icon labels o
 
 Leo：Problem solved.Thank you very much, Tony
 
-------
 
-Visual Effects：视觉效果
 
-What's up：怎么啦（用于熟人之间）
+- Visual Effects：视觉效果
 
- I have been doing：一直做……
+- What's up：怎么啦（用于熟人之间）
 
- giving up：放弃，舍弃
+- I have been doing：一直做……
 
- what exactly should I do about that?：那我应该怎么做呢？
+- giving up：放弃，舍弃
 
- Are you with me：你听懂了么？
+- what exactly should I do about that?：那我应该怎么做呢？
 
- dialogue box：对话框
+- Are you with me：你听懂了么？
 
- desktop icon labels：桌面图标标签
+- dialogue box：对话框
 
- problem solved：问题解决了
+- desktop icon labels：桌面图标标签
 
-adjust：调整
+- problem solved：问题解决了
 
-performance：性能 
+- adjust：调整
 
-appearance：出现，外貌，外形
+- performance：性能 
 
-Advanced ：高级
+- appearance：出现，外貌，外形
 
-drop shadows：投下阴影
+- Advanced ：高级
+
+- drop shadows：投下阴影

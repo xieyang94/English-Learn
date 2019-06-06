@@ -10,58 +10,58 @@ MUSK is famous for his business on the cutting edge of technology, such as Tesla
 
 
 
-Artificial Intelligence：人工智能
+- Artificial Intelligence：人工智能
 
-exhibited ：展出，展现
+- exhibited ：展出，展现
 
-fascinated ：入迷的; 极感兴趣的
+- fascinated ：入迷的; 极感兴趣的
 
-Numerous ：众多
+- Numerous ：众多
 
-science ：科学
+- science ：科学
 
-fiction：小说，虚构小说
+- fiction：小说，虚构小说
 
-novels ：小说
+- novels ：小说
 
-explored ：探索
+- explored ：探索
 
-scenarios ：设想; 方案; 预测; (电影或戏剧的) 剧情梗概
+- scenarios ：设想; 方案; 预测; (电影或戏剧的) 剧情梗概
 
-unfold ：展开，开展
+- unfold ：展开，开展
 
-entertaining ：娱乐
+- entertaining ：娱乐
 
-frightening：可怕的
+- frightening：可怕的
 
-scientific circles：科学领域
+- scientific circles：科学领域
 
-experts ：专家
+- experts ：专家
 
-reasonable ：合理
+- reasonable ：合理
 
-chance ：机会，偶然性
+- chance ：机会，偶然性
 
-singularity ：奇点
+- singularity ：奇点
 
-ELON MUSK：埃隆·马斯克
+- ELON MUSK：埃隆·马斯克
 
-cutting edge of technology：尖端技术
+- cutting edge of technology：尖端技术
 
-Tesla ：特斯拉汽车
+- Tesla ：特斯拉汽车
 
-Space X：太空探索技术公司
+- Space X：太空探索技术公司
 
-concerned about：关心
+- concerned about：关心
 
-warned：警告
+- warned：警告
 
-existential ：存在
+- existential ：存在
 
-summoning ：召唤
+- summoning ：召唤
 
-demon：恶魔
+- demon：恶魔
 
-potentially：可能
+- potentially：可能
 
-nukes：核武器
+- nukes：核武器

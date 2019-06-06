@@ -10,62 +10,62 @@ Farmers are using drones to monitor fields, increase yields, and save money.Dron
 
 Small, lightweight drones fly over landscapes and take thousands of digital images.Then software pieces them into 3D maps.
 
-drones：无人机，遥控飞机
+- drones：无人机，遥控飞机
 
-Amazon ：亚马逊
+- Amazon ：亚马逊
 
-delivery：投递，运输，递送
+- delivery：投递，运输，递送
 
-lead the discussion：主导谈话，聊天的主角，重头
+- lead the discussion：主导谈话，聊天的主角，重头
 
-unmanned ：无人的
+- unmanned ：无人的
 
-aerial：航空的，航天的
+- aerial：航空的，航天的
 
-vehicles：车辆，运行器械，飞行装置
+- vehicles：车辆，运行器械，飞行装置
 
-announced ：公布，宣布，宣告
+- announced ：公布，宣布，宣告
 
-Originally：本来，原本
+- Originally：本来，原本
 
-military：军事，军用
+- military：军事，军用
 
-intelligence applications：智能化，智丽化
+- intelligence applications：智能化，智丽化
 
-spying：间谍
+- spying：间谍
 
-bombing：轰炸
+- bombing：轰炸
 
-civilian ：平民，民用
+- civilian ：平民，民用
 
-monitor ：监控
+- monitor ：监控
 
-fields：领域，农田
+- fields：领域，农田
 
-increase ：增加
+- increase ：增加
 
-yields：产量
+- yields：产量
 
-digital ：数字化
+- digital ：数字化
 
-identify ：鉴定
+- identify ：鉴定
 
-closer inspection：仔细检查，近距离观察
+- closer inspection：仔细检查，近距离观察
 
-infrared：红外线
+- infrared：红外线
 
-inspect ：检查
+- inspect ：检查
 
-crop：农作物
+- crop：农作物
 
-detecting ：检测
+- detecting ：检测
 
-photosynthetic：光合作用
+- photosynthetic：光合作用
 
-various：各个，各种
+- various：各个，各种
 
-fly over：飞跃
+- fly over：飞跃
 
-landscapes ：景观，山水
+- landscapes ：景观，山水
 
-pieces ：片，块，部分
+- pieces ：片，块，部分

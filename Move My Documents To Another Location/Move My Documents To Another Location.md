@@ -22,8 +22,8 @@ Leo：That seems easy.Thank you, Tony.I really appreciate your advice.
 
 Tony：Anytime
 
----
 
-Primary partition：主分区
 
-appreciate ：欣赏，感激
+- Primary partition：主分区
+
+- appreciate ：欣赏，感激
