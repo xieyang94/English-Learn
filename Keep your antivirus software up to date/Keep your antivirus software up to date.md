@@ -28,6 +28,20 @@ Tony : You needn’t have to worry about it too much . Antivirus software progra
 
 Leo: Oh, I see, if my computer is infected by a virus,how should i remove it?
 
-Tony:Firstly you ought to visit Microsoft Update and install the latest updates. Then if you are current using antivirus software , visit the manufacturer’s website , update your software , and then perform a thorough scan of your computer . If not , subscribe services and software and scan your computer immediately .
+Tony:Firstly, you should to visit Microsoft Update and install the latest updates. Then if you are current using antivirus software , visit the manufacturer’s website , update your software , and then perform a thorough scan of your computer . If not , subscribe services and software and scan your computer immediately .
 
 Leo : I got it . Thanks a lot
+
+
+
+- infected ：感染
+-  locks up：锁定
+- correctly：正确地
+- inaccessible：不能访问，不能读取，人迹罕至
+- have nothing to do ：无所事事，无能为力
+- Antivirus ：杀毒软件
+- purchase：采购
+- separately：分别
+- perform ：执行
+- immediately ：立即
+
