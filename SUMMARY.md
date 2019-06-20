@@ -15,4 +15,7 @@
 * [Recruiting Top Developers](Recruiting Top Developers/Recruiting Top Developers.md)
 * [Enable your firewall](Enable your firewall/Enable your firewall.md)
 * [Keep your antivirus software up to date](Keep your antivirus software up to date/Keep your antivirus software up to date.md)
+* [Note](Note/Note.md)
+* [Send an E-mail with an attachment](Send an E-mail with an attachment/Send an E-mail with an attachment.md)
+* [Vlog](Vlog/Vlog.md)
 
