@@ -18,4 +18,6 @@
 * [Note](Note/Note.md)
 * [Send an E-mail with an attachment](Send an E-mail with an attachment/Send an E-mail with an attachment.md)
 * [Vlog](Vlog/Vlog.md)
+* [Memory](Memory/Memory.md)
+* [Use Skype to talk with others](Use Skype to talk with others/Use Skype to talk with others.md)
 
